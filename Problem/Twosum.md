@@ -1,3 +1,11 @@
+## Two Sum
+
+[View on Leetcode](https://leetcode.com/problems/two-sum)
+
+[View Solution in C++](https://github.com/collab-community/Leetcode-problem/blob/KendallDoesCoding/patch-1/Solution/cpp/TwoSum.cpp)
+
+[View Solution in Java](https://github.com/collab-community/Leetcode-problem/blob/KendallDoesCoding/patch-1/Solution/java/Twosum.java)
+
 ## Question
  Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
