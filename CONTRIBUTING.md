@@ -4,7 +4,7 @@ By contributing, you agree to the [LICENSE](LICENSE) of this repository.
 
 ## Contributor Code of Conduct
 
-By Contributing you agree to respect the [`Code of Conduct of Collab Community`](https://github.com/collab-community/.github/blob/main/.github/CODE_OF_CONDUCT.md).
+By contributing, you agree to respect the [`Code of Conduct of Collab Community`](https://github.com/collab-community/.github/blob/main/.github/CODE_OF_CONDUCT.md).
 
 ## Contribution Guideline
 
