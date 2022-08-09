@@ -14,7 +14,7 @@ You can use any kind of language but it should be clean and properly coded witho
 If two person push the same question with the same language the most optimised code will be selected.
 
 # Rules and Regulation 
-Please adhere to  `code of conduct of Collab Community`.
+Please adhere to  `Code of Conduct of Collab Community`.
 
 
 # Problem-Solved 
