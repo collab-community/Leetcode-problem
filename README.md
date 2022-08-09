@@ -5,6 +5,9 @@
 # Leetcode Problem Solution
 This repository is to maintain consistency and also help geeks to solve the problems at which they are stuck.
 
+# What is Leetcode ?
+It is a platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. It is a place that has lots of questions of varying levels and features of filtering through various topics and much more.
+
 # Language used
 You can use any kind of language, but it should be clean and properly coded without errors.
 
