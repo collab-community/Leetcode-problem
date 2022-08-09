@@ -2,17 +2,14 @@
  <img src="https://img.shields.io/badge/contributions-welcome-blue">
 </div> 
  
-
 # Leetcode Problem Solution
- 
-This repository is to maintain consistency and also help geeks to solve the problem at which they are stuck.
+This repository is to maintain consistency and also help geeks to solve the problems at which they are stuck.
 
 # Language used
-
-You can use any kind of language but it should be clean and properly coded without error
+You can use any kind of language, but it should be clean and properly coded without errors.
 
 # Conflict
-If two person push the same question with the same language the most optimised code will be selected.
+If two person push the same question in the same language, the most optimized code will be selected.
 
 # Rules and Regulation 
 Please adhere to  `Code of Conduct of Collab Community`.
