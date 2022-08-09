@@ -28,4 +28,4 @@ Please adhere to  [`Code of Conduct of Collab Community`](https://github.com/col
 # Contributing
 This repository provides detailed solutions to LeetCode problems, which can be used to improve the problem solving abilities of developers.
 
-We encouraged you to contribute to Leetcode Problem Solution, and we have provided guidelines to help you get started.
+We encouraged you to contribute to Leetcode Problem Solution, and we have provided [guidelines](CONTRIBUTING.md) to help you get started.
