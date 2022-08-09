@@ -1,3 +1,7 @@
+## Two Sum
+
+[View on Leetcode](https://leetcode.com/problems/two-sum)
+
 ## Question
  Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -25,3 +29,8 @@ Output: [0,1]
 - -109 <= target <= 109
 
 Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
+
+## Solution:
+[View Solution in C++](https://github.com/collab-community/Leetcode-problem/blob/KendallDoesCoding/patch-1/Solution/cpp/TwoSum.cpp)
+
+[View Solution in Java](https://github.com/collab-community/Leetcode-problem/blob/KendallDoesCoding/patch-1/Solution/java/Twosum.java)
