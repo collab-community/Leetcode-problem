@@ -20,4 +20,4 @@ Please adhere to  `code of conduct of Collab Community`.
 # Problem-Solved 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](./Problem/Twosum.md) | [C++](./Solution/cpp/Twosum.cpp), [Java](./Solution/java/Twosum.java)|Easy|
+|1|[Two Sum](./Problem/Twosum.md) | [C++](./Solution/cpp/TwoSum.cpp), [Java](./Solution/java/Twosum.java)|Easy|
