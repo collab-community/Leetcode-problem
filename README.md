@@ -1,6 +1,6 @@
 <div align="center">
  <img src="https://img.shields.io/badge/contributions-welcome-blue">
-</div> 
+</div>
  
 # Leetcode Problem Solution
 This repository is to maintain consistency and also help geeks to solve the problems at which they are stuck.
@@ -19,3 +19,8 @@ Please adhere to  [`Code of Conduct of Collab Community`](https://github.com/col
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](./Problem/Twosum.md) | [C++](./Solution/cpp/TwoSum.cpp), [Java](./Solution/java/Twosum.java)|Easy|
+
+# Contributing
+This repository provides detailed solutions to LeetCode problems, which can be used to improve the problem solving abilities of developers.
+
+We encouraged you to contribute to Leetcode Problem Solution, and we have provided guidelines to help you get started.
