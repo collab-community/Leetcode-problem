@@ -16,6 +16,8 @@ If two person push the same question with the same language the most optimised c
 # Rules and Regulation 
 Please adhere to  `code of conduct of Collab Community`.
 
+
+# Problem-Solved 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](./Problem/Twosum.md) | [C++](./Solution/cpp/Twosum.cpp), [Java](./Solution/java/Twosum.java)|Easy|
