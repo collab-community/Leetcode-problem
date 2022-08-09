@@ -1,6 +1,6 @@
 ## Contributor License Aggrement
 
-By contributing you agree to the [LICENSE]() of this repository
+By contributing, you agree to the [LICENSE](LICENSE) of this repository.
 
 ## Contributor Code of Conduct
 
