@@ -1,10 +1,11 @@
+<div align="center">
+ <img src="https://img.shields.io/badge/contributions-welcome-blue">
+</div> 
+ 
+
 # Leetcode Problem Solution
  
 This repository is to maintain consistency and also help geeks to solve the problem at which they are stuck.
-
-## Contributing
-
-Contributions are always welcome!
 
 # Language used
 
