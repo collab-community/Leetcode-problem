@@ -10,32 +10,21 @@ By contributing, you agree to respect the [`Code of Conduct of Collab Community`
 
 Please ensure your pull request adheres to the following guidelines.
 
-### If you new to open source
+- ### If you new to open source
 
-- Here's a guide to help you get started in the open source world if you're new to it [first Contribution](https://github.com/firstcontributions/first-contributions.git)
+  - Here's a guide to help you get started in the open source world if you're new to it [first Contribution](https://github.com/firstcontributions/first-contributions.git)
 
-### If you are adding a solution
+- ### If you are adding a solution
 
-- If you are providing a solution, please ensure that it is your own.
-- Double Check your Solution.
-- Provide a test case for your solution
-- Insert the solution into [solution folder](Solution) of your prefered language ([C++](Solution/cpp) or [Java](Solution/java) )
+  - If you are providing a solution, please ensure that it is your own.
+  - Double Check your Solution.
+  - Provide a test case for your solution
+  - Insert the solution into [solution folder](Solution) of your prefered language ([C++](Solution/cpp) or [Java](Solution/java) )
+  - Don't forget to add the problem statement into the [Problem](Problem) folder of this repository in markdown format.
 
-```
-📦Leetcode-problem
-|___.github
-|___Problem
-|___Solution
-|   |   cpp
-|   |   java
-|___CONTRIBUTING.md
-|___README.md
-```
-- Don't forget to add the problem statement into the [Problem](Problem) folder of this repository in markdown format.
+- ### If you find issue
 
-### If you find issue
-
-- We would appreciate if you could let us know if you encounter any issues.
+  - We would appreciate if you could let us know if you encounter any issues.
 
 ## Recommendation
 
