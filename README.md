@@ -12,7 +12,7 @@ You can use any kind of language, but it should be clean and properly coded with
 If two person push the same question in the same language, the most optimized code will be selected.
 
 # Rules and Regulation 
-Please adhere to  `Code of Conduct of Collab Community`.
+Please adhere to  [`Code of Conduct of Collab Community`](https://github.com/collab-community/.github/blob/main/.github/CODE_OF_CONDUCT.md).
 
 
 # Problem-Solved 
