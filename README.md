@@ -24,7 +24,7 @@ Please adhere to  [`Code of Conduct of Collab Community`](https://github.com/col
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](./Problem/Twosum.md) | [C++](./Solution/cpp/TwoSum.cpp), [Java](./Solution/java/Twosum.java)|Easy|
-|1|[PalindromeNumber]](./Problem/PalindromeNumber.md) | [C++](./Solution/cpp/PalindromeNumber.cpp), [Java]()|Easy|
+|2|[PalindromeNumber]|(./Problem/PalindromeNumber.md) | [C++](./Solution/cpp/PalindromeNumber.cpp), [Java]()|Easy|
 
 # Contributing
 This repository provides detailed solutions to LeetCode problems, which can be used to improve the problem solving abilities of developers.
